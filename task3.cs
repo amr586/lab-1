@@ -6,7 +6,7 @@ class Program
     {
         string name1, name2, name3;
         int grade1, grade2, grade3;
-        double average;
+        int average;
 
         Console.Write("Enter name of student 1: ");
         name1 = Console.ReadLine();
@@ -38,4 +38,5 @@ class Program
         Console.WriteLine();
     }
 }
+
 
