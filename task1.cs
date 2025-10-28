@@ -1,8 +1,3 @@
-﻿using System;
-using System.Diagnostics.CodeAnalysis;
-using System.IO.Compression;
-using System.Runtime.CompilerServices;
-
 using System;
 
 class Program
@@ -26,4 +21,5 @@ class Program
         
 
     
+
 
